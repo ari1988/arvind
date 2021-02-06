@@ -1,6 +1,6 @@
 {
-    "name": "gabbar",
-    "version": "2.1.0",
+    "name": "arvind",
+    "version": "2.0.0",
     "description": "Get to know Arvind via `npx arvind`",
     "bin": {
         "arvind": "index.js"
