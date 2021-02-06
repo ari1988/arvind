@@ -1,0 +1,25 @@
+{
+    "name": "gabbar",
+    "version": "2.1.0",
+    "description": "Get to know Arvind via `npx arvind`",
+    "bin": {
+        "arvind": "index.js"
+    },
+    "keywords": [
+        "arvind singh",
+        "arvind"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "ari1988/arvind",
+    "author": {
+        "name": "Arvind Singh",
+        "email": "arvindsingh.cs@hotmail.com",
+        "url": "https://twitter.com/0xArvind"
+    },
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "cli-welcome": "^2.2.2",
+        "log-symbols": "^4.0.0"
+    }
+}
